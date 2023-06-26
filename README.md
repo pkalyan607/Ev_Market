@@ -4,10 +4,16 @@ What infrastructure and resources are required to support mass adoption of elect
 
 The mass adoption of electric vehicles (EVs) requires significant infrastructure and resources to support their widespread use. Here are some key components necessary for facilitating the mass adoption of EVs:
 
-Charging Infrastructure
-Residential Charging
-Fast Charging Networks
-Grid Upgrades and Management
-Battery Recycling and Disposal
-Incentives and Policies
-Education and Awareness
+1.Charging Infrastructure
+
+2.Residential Charging
+
+3.Fast Charging Networks
+
+4.Grid Upgrades and Management
+
+5.Battery Recycling and Disposal
+
+6.Incentives and Policies
+
+7.Education and Awareness
